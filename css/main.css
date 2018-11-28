@@ -52,4 +52,22 @@ header {
   aside#social:hover ul.social-links{
       display:block;}
   
- 
+ul.weybec-people {
+    list-style-type:none;
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+ul.weybec-people.li{
+    display:inline-block;
+}
+
+ul.weybec-people img{
+    width:300px;
+    height:300px;
+}
+    
+    
+    
+  
